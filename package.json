@@ -67,6 +67,6 @@
     "acorn": "^8.0.0",
     "kind-of": "^6.0.3",
     "minimist": "^1.2.5",
-    "set-value": "^3.0.0"
+    "set-value": "^4.0.1"
   }
 }
